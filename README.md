@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Lingyu Kong 孔令宇
-- 👀 I’m interested in perception and prediction in computer vision, such as Multi-object Tracking and Trajectory Prediction. I'm also interested in the inference acceleration of neural networks in edge devices.
+- 👀 I’m interested in perception and prediction in computer vision, such as **Multi-object Tracking** and **Trajectory Prediction**. I'm also interested in the inference acceleration of neural networks in edge devices.
 - 🌱 I’m currently learning trajectory prediction.
 - 📫 How to reach me: [zhihu](https://www.zhihu.com/people/po-mai-ji-jing-de)
 
